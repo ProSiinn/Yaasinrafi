@@ -1,0 +1,7 @@
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.csproj.AssemblyReference.cache
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.Form1.resources
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.csproj.GenerateResource.cache
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.AssemblyInfoInputs.cache
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.AssemblyInfo.cs
+D:\Praktek Smstr 4\KPL\TP_MOD3_1302210055\TP_MOD3_1302210055\obj\Debug\net6.0-windows\TP_MOD3_1302210055.csproj.CoreCompileInputs.cache
